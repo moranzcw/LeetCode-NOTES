@@ -1,9 +1,14 @@
 # LeetCode
-LeetCode Online Judge 题解
+LeetCode Online Judge Solutions
 
 ---
-* [LeetCode OJ](https://leetcode.com/) 是一个为技术编程面试做准备的在线测试平台。
+###LeetCode OJ
+>[LeetCode OJ](https://leetcode.com/)  is a platform for preparing technical coding interviews. Pick from an expanding library of more than 190 questions, code and submit your solution to see if you have solved it correctly. It is that easy!
+>Our platform currently supports a total of 9 languages: C, C++, Java, Python, C#, JavaScript, Ruby, Bash, MySQL.
 
-* [LeetCode Algorithms](https://leetcode.com/problemset/algorithms/) 目前包含300多道面试算法题，并支持多种语言。本题解采用**C++**描述。
+-- from [LeetCode OJ](https://leetcode.com/)
 
+###Solutions
+
+*Content to be added*...
 
