@@ -10,5 +10,5 @@ LeetCode Online Judge Solutions
 
 ###Solutions
 
-*Content to be added*...
+re.search(pattern, tempDir)
 
