@@ -10,5 +10,3 @@ LeetCode Online Judge Solutions
 
 ###Solutions
 
-re.search(pattern, tempDir)
-
