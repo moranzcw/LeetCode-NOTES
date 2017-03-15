@@ -1,12 +1,16 @@
-# LeetCode
-LeetCode Online Judge Solutions
+# LeetCode_Solutions
 
----
-###LeetCode OJ
->[LeetCode OJ](https://leetcode.com/)  is a platform for preparing technical coding interviews. Pick from an expanding library of more than 190 questions, code and submit your solution to see if you have solved it correctly. It is that easy!
->Our platform currently supports a total of 9 languages: C, C++, Java, Python, C#, JavaScript, Ruby, Bash, MySQL.
+LeetCode 中文题解
 
--- from [LeetCode OJ](https://leetcode.com/)
+[LeetCode 官方网站](https://leetcode.com/)
 
 ###Solutions
+
+
+|                    题目                    |                    解答                    |
+| :--------------------------------------: | :--------------------------------------: |
+| [1. Two Sum.md](https://leetcode.com/problems/two-sum/#/description) | [1. Two Sum.md](https://github.com/moranzcw/LeetCode_Solutions/blob/master/Algorithm/1.%20Two%20Sum.md) |
+| [2. Add Two Numbers.md](https://leetcode.com/problems/add-two-numbers/#/description) | [2. Add Two Numbers.md](https://github.com/moranzcw/LeetCode_Solutions/blob/master/Algorithm/2.%20Add%20Two%20Numbers.md) |
+
+
 
