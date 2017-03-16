@@ -1,10 +1,12 @@
 # LeetCode_Solutions
 
-LeetCode 中文题解
+### 描述
+
+此仓库不断更新LeetCode 中文题解。
 
 [LeetCode 官方网站](https://leetcode.com/)
 
-###Solutions
+###解析
 
 
 |                    题目                    |                    解析                    |
