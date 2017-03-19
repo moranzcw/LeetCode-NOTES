@@ -16,6 +16,6 @@
 | [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/#/description) | [Solution](https://github.com/moranzcw/LeetCode_Solutions/blob/master/Algorithms/4.%20Median%20of%20Two%20Sorted%20Arrays.md) |
 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/#/description) | [Solution](https://github.com/moranzcw/LeetCode_Solutions/blob/master/Algorithms/5.%20Longest%20Palindromic%20Substring.md) |
 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/#/description) | [Solution](https://github.com/moranzcw/LeetCode_Solutions/blob/master/Algorithms/7.%20Reverse%20Integer.md) |
-| [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/#/description) | [Solution](/moranzcw/LeetCode_Solutions/Algorithms/8.%20String%20to%20Integer%20(atoi).md) |
+| [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/#/description) | [Solution](/Algorithms/8.%20String%20to%20Integer%20(atoi).md) |
 
 
