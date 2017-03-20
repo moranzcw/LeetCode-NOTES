@@ -17,5 +17,6 @@
 | [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](/Algorithms/5.%20Longest%20Palindromic%20Substring.md) |
 | [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Solution](/Algorithms/7.%20Reverse%20Integer.md) |
 | [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Solution](/Algorithms/8.%20String%20to%20Integer%20(atoi).md) |
+| [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [Solution](/Algorithms/10.%20Regular%20Expression%20Matching.md) |
 
 
