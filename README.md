@@ -29,7 +29,9 @@
 | [18. 4Sum](https://leetcode.com/problems/4sum/) |  [Solution](/Algorithms/18.%204Sum.md)   |
 | [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](/Algorithms/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md) |
 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Solution](/Algorithms/20.%20Valid%20Parentheses.md) |
-| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Solution](/Algorithms/20.%20Valid%20Parentheses.md) || [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Solution](/Algorithms/20.%20Valid%20Parentheses.md) |
-| [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Solution](/Algorithms/20.%20Valid%20Parentheses.md) || [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [Solution](/Algorithms/20.%20Valid%20Parentheses.md) |
-| [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [Solution](/Algorithms/20.%20Valid%20Parentheses.md) |
+| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Solution](/Algorithms/21.%20Merge%20Two%20Sorted%20Lists.md) |
+| [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Solution](/Algorithms/22.%20Generate%20Parentheses.md) |
+| [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Solution](/Algorithms/23.%20Merge%20k%20Sorted%20Lists.md) |
+| [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [Solution](/Algorithms/24.%20Swap%20Nodes%20in%20Pairs.md) |
+| [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | [Solution](/Algorithms/25.%20Reverse%20Nodes%20in%20k-Group.md) |
 
