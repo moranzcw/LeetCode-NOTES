@@ -34,6 +34,6 @@
 |  23  | [Merge k Sorted Lists](/Algorithms/merge-k-sorted-lists.md) | [LeetCode](https://LeetCode.com/problems/merge-k-sorted-lists) |
 |  24  | [Swap Nodes in Pairs](/Algorithms/swap-nodes-in-pairs.md) | [LeetCode](https://LeetCode.com/problems/swap-nodes-in-pairs) |
 |  25  | [Reverse Nodes in k-Group](/Algorithms/reverse-nodes-in-k-group.md) | [LeetCode](https://LeetCode.com/problems/reverse-nodes-in-k-group) |
-|  26  | [Remove Duplicates from Sorted Array](/Algorithms/duplicates-from-sorted-array.md) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array) |
+|  26  | [Remove Duplicates from Sorted Array](/Algorithms/remove-duplicates-from-sorted-array.md) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array) |
 |  27  | [Remove Element](/Algorithms/remove-element.md) | [LeetCode](https://leetcode.com/problems/remove-element) |
 |  28  | [Implement strStr()](/Algorithms/implement-strstr.md) | [LeetCode](https://leetcode.com/problems/implement-strstr) |
