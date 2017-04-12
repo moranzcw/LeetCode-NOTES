@@ -10,7 +10,7 @@
 
 |  题号  | 解析                                       |                   问题链接                   |
 | :--: | :--------------------------------------- | :--------------------------------------: |
-|  1   | [Two Sum](/Algorithms/two-sum.md) | [LeetCode](https://LeetCode.com/problems/two-sum) |
+|  1   | [Two Sum](/Algorithms/two-sum.md)        | [LeetCode](https://LeetCode.com/problems/two-sum) |
 |  2   | [Add Two Numbers](/Algorithms/add-two-numbers.md) | [LeetCode](https://LeetCode.com/problems/add-two-numbers) |
 |  3   | [Longest Substring Without Repeating Characters](/Algorithms/longest-substring-without-repeating-characters.md) | [LeetCode](https://LeetCode.com/problems/longest-substring-without-repeating-characters) |
 |  4   | [Median of Two Sorted Arrays](/Algorithms/median-of-two-sorted-arrays.md) | [LeetCode](https://LeetCode.com/problems/median-of-two-sorted-arrays) |
@@ -23,10 +23,10 @@
 |  12  | [Integer to Roman](/Algorithms/integer-to-roman.md) | [LeetCode](https://LeetCode.com/problems/integer-to-roman) |
 |  13  | [Roman to Integer](/Algorithms/roman-to-integer.md) | [LeetCode](https://LeetCode.com/problems/roman-to-integer) |
 |  14  | [Longest Common Prefix](/Algorithms/longest-common-prefix.md) | [LeetCode](https://LeetCode.com/problems/longest-common-prefix) |
-|  15  | [3Sum](/Algorithms/3sum.md)        | [LeetCode](https://LeetCode.com/problems/3sum) |
+|  15  | [3Sum](/Algorithms/3sum.md)              | [LeetCode](https://LeetCode.com/problems/3sum) |
 |  16  | [3Sum Closest](/Algorithms/3sum-closest.md) | [LeetCode](https://LeetCode.com/problems/3sum-closest) |
 |  17  | [Letter Combinations of a Phone Number](/Algorithms/letter-combinations-of-a-phone-number.md) | [LeetCode](https://LeetCode.com/problems/letter-combinations-of-a-phone-number) |
-|  18  | [4Sum](/Algorithms/4sum.md)        | [LeetCode](https://LeetCode.com/problems/4sum) |
+|  18  | [4Sum](/Algorithms/4sum.md)              | [LeetCode](https://LeetCode.com/problems/4sum) |
 |  19  | [Remove Nth Node From End of List](/Algorithms/remove-nth-node-from-end-of-list.md) | [LeetCode](https://LeetCode.com/problems/remove-nth-node-from-end-of-list) |
 |  20  | [Valid Parentheses](/Algorithms/valid-parentheses.md) | [LeetCode](https://LeetCode.com/problems/valid-parentheses) |
 |  21  | [Merge Two Sorted Lists](/Algorithms/merge-two-sorted-lists.md) | [LeetCode](https://LeetCode.com/problems/merge-two-sorted-lists) |
@@ -34,3 +34,6 @@
 |  23  | [Merge k Sorted Lists](/Algorithms/merge-k-sorted-lists.md) | [LeetCode](https://LeetCode.com/problems/merge-k-sorted-lists) |
 |  24  | [Swap Nodes in Pairs](/Algorithms/swap-nodes-in-pairs.md) | [LeetCode](https://LeetCode.com/problems/swap-nodes-in-pairs) |
 |  25  | [Reverse Nodes in k-Group](/Algorithms/reverse-nodes-in-k-group.md) | [LeetCode](https://LeetCode.com/problems/reverse-nodes-in-k-group) |
+|  26  | [Remove Duplicates from Sorted Array](/Algorithms/duplicates-from-sorted-array.md) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array) |
+|  27  | [Remove Element](/Algorithms/remove-element.md) | [LeetCode](https://leetcode.com/problems/remove-element) |
+|  28  | [Implement strStr()](/Algorithms/implement-strstr.md) | [LeetCode](https://leetcode.com/problems/implement-strstr) |
