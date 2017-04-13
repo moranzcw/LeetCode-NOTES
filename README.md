@@ -37,3 +37,5 @@
 |  26  | [Remove Duplicates from Sorted Array](/Algorithms/remove-duplicates-from-sorted-array.md) | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array) |
 |  27  | [Remove Element](/Algorithms/remove-element.md) | [LeetCode](https://leetcode.com/problems/remove-element) |
 |  28  | [Implement strStr()](/Algorithms/implement-strstr.md) | [LeetCode](https://leetcode.com/problems/implement-strstr) |
+|  29  | [Divide Two Integers](/Algorithms/divide-two-integers.md) | [LeetCode](https://leetcode.com/problems/divide-two-integers) |
+
