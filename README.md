@@ -1,6 +1,4 @@
-# LeetCode_LeetCodes
-
-### 描述
+# LeetCode中文算法解析
 
 此页面不断更新LeetCode 中文算法解析。
 
