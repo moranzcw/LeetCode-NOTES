@@ -3,7 +3,7 @@
 ## 描述
 给定一个数字字符串，返回所有由电话输入的可能字母组合。
 下面给出了数字到字母的映射（和电话按钮一样）。
-![](200px-Telephone-keypad2.svg.png)
+![](image/200px-Telephone-keypad2.svg.png)
 ```
 输入： 数字字符串 "23"
 输出： ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"].

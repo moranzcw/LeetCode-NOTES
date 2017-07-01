@@ -13,6 +13,7 @@
 |  3   | [Longest Substring Without Repeating Characters](/Algorithms/longest-substring-without-repeating-characters.md) | [LeetCode](https://LeetCode.com/problems/longest-substring-without-repeating-characters) |
 |  4   | [Median of Two Sorted Arrays](/Algorithms/median-of-two-sorted-arrays.md) | [LeetCode](https://LeetCode.com/problems/median-of-two-sorted-arrays) |
 |  5   | [Longest Palindromic Substring](/Algorithms/longest-palindromic-substring.md) | [LeetCode](https://LeetCode.com/problems/longest-palindromic-substring) |
+|  6   | [ZigZag Conversion](/Algorithms/ZigZag-Conversion.md) | [LeetCode](https://LeetCode.com/problems/ZigZag-Conversion) |
 |  7   | [Reverse Integer](/Algorithms/reverse-integer.md) | [LeetCode](https://LeetCode.com/problems/reverse-integer) |
 |  8   | [String to Integer (atoi)](/Algorithms/string-to-integer-atoi.md) | [LeetCode](https://LeetCode.com/problems/string-to-integer-atoi) |
 |  9   | [Palindrome Number](/Algorithms/palindrome-number.md) | [LeetCode](https://LeetCode.com/problems/palindrome-number) |
