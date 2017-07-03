@@ -2,16 +2,16 @@
 
 此页面不断更新LeetCode 中文算法解析。
 
-. [LeetCode 官方网站](https://LeetCode.com/)
+[LeetCode 官方网站](https://LeetCode.com/)
 
 ### 解答
 
 1. [Two Sum](/Algorithms/001-two-sum.md)
 2. [Add Two Numbers](/Algorithms/002-add-two-numbers.md)
-3. [Longest Substring Without Repeating Characters](/Algorithms/003-longest-substring-without-repeating-characters.md).
-4. [Median of Two Sorted Arrays](/Algorithms/004-median-of-two-sorted-arrays.md).
-5. [Longest Palindromic Substring](/Algorithms/005-longest-palindromic-substring.md). 
-6. [ZigZag Conversion](/Algorithms/006-ZigZag-Conversion.md).
+3. [Longest Substring Without Repeating Characters](/Algorithms/003-longest-substring-without-repeating-characters.md)
+4. [Median of Two Sorted Arrays](/Algorithms/004-median-of-two-sorted-arrays.md)
+5. [Longest Palindromic Substring](/Algorithms/005-longest-palindromic-substring.md)
+6. [ZigZag Conversion](/Algorithms/006-zigzag-conversion.md)
 7. [Reverse Integer](/Algorithms/007-reverse-integer.md)
 8. [String to Integer (atoi)](/Algorithms/008-string-to-integer-atoi.md)
 9. [Palindrome Number](/Algorithms/009-palindrome-number.md)
