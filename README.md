@@ -437,6 +437,8 @@
 
 [299.Bulls-and-Cows](Algorithms/299.Bulls-and-Cows/solution.cpp)
 
+[300.Longest-Increasing-Subsequence](Algorithms/300.Longest-Increasing-Subsequence/solution.cpp)
+
 [303.Range-Sum-Query---Immutable](Algorithms/303.Range-Sum-Query---Immutable/solution.cpp)
 
 [309.Best-Time-to-Buy-and-Sell-Stock-with-Cooldown](Algorithms/309.Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/solution.cpp)
