@@ -379,6 +379,8 @@
 
 [211.Add-and-Search-Word---Data-structure-design](Algorithms/211.Add-and-Search-Word---Data-structure-design/solution.cpp)
 
+[213.House-Robber-II](Algorithms/213.House-Robber-II/solution.cpp)
+
 [214.Shortest-Palindrome](Algorithms/214.Shortest-Palindrome/solution.cpp)
 
 [215.Kth-Largest-Element-in-an-Array](Algorithms/215.Kth-Largest-Element-in-an-Array/solution.cpp)
