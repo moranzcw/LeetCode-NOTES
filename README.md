@@ -425,6 +425,8 @@
 
 [263.Ugly-Number](Algorithms/263.Ugly-Number/solution.cpp)
 
+[264.Ugly-Number-II](Algorithms/264.Ugly-Number-II/solution.cpp)
+
 [273.Integer-to-English-Words](Algorithms/273.Integer-to-English-Words/solution.cpp)
 
 [278.First-Bad-Version](Algorithms/278.First-Bad-Version/solution.cpp)
@@ -442,6 +444,8 @@
 [300.Longest-Increasing-Subsequence](Algorithms/300.Longest-Increasing-Subsequence/solution.cpp)
 
 [303.Range-Sum-Query---Immutable](Algorithms/303.Range-Sum-Query---Immutable/solution.cpp)
+
+[304.Range-Sum-Query-2D---Immutable](Algorithms/304.Range-Sum-Query-2D---Immutable/solution.cpp)
 
 [309.Best-Time-to-Buy-and-Sell-Stock-with-Cooldown](Algorithms/309.Best-Time-to-Buy-and-Sell-Stock-with-Cooldown/solution.cpp)
 
