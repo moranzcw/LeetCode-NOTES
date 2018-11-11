@@ -565,5 +565,46 @@
 
 [485.Max-Consecutive-Ones](Algorithms/485.Max-Consecutive-Ones/solution.cpp)
 
+[496.Next-Greater-Element-I](Algorithms/496.Next-Greater-Element-I/solution.cpp)
+
+[498.Diagonal-Traverse](Algorithms/498.Diagonal-Traverse/solution.cpp)
+
+[503.Next-Greater-Element-II](Algorithms/503.Next-Greater-Element-II/solution.cpp)
+
+[506.Relative-Ranks](Algorithms/506.Relative-Ranks/solution.cpp)
+
 [645.Set-Mismatch](Algorithms/645.Set-Mismatch/solution.cpp)
 
+[674.Longest-Continuous-Increasing-Subsequence](Algorithms/674.Longest-Continuous-Increasing-Subsequence/solution.cpp)
+
+[680.Valid-Palindrome-II](Algorithms/680.Valid-Palindrome-II/solution.cpp)
+
+[762.Prime-Number-of-Set-Bits-in-Binary-Representation](Algorithms/762.Prime-Number-of-Set-Bits-in-Binary-Representation/solution.cpp)
+
+[824.Goat-Latin](Algorithms/824.Goat-Latin/solution.cpp)
+
+[825.Friends-Of-Appropriate-Ages](Algorithms/825.Friends-Of-Appropriate-Ages/solution.cpp)
+
+[826.Most-Profit-Assigning-Work](Algorithms/826.Most-Profit-Assigning-Work/solution.cpp)
+
+[897.Increasing-Order-Search-Tree](Algorithms/897.Increasing-Order-Search-Tree/solution.cpp)
+
+[925.Long-Pressed-Name](Algorithms/925.Long-Pressed-Name/solution.cpp)
+
+[926.Flip-String-to-Monotone-Increasing](Algorithms/926.Flip-String-to-Monotone-Increasing/solution.cpp)
+
+[929.Unique-Email-Addresses](Algorithms/929.Unique-Email-Addresses/solution.cpp)
+
+[930.Binary-Subarrays-With-Sum](Algorithms/930.Binary-Subarrays-With-Sum/solution.cpp)
+
+[933.Number-of-Recent-Calls](Algorithms/933.Number-of-Recent-Calls/solution.cpp)
+
+[934.Shortest-Bridge](Algorithms/934.Shortest-Bridge/solution.cpp)
+
+[937.Reorder-Log-Files](Algorithms/937.Reorder-Log-Files/solution.cpp)
+
+[938.Range-Sum-of-BST](Algorithms/938.Range-Sum-of-BST/solution.cpp)
+
+[939.Minimum-Area-Rectangle](Algorithms/939.Minimum-Area-Rectangle/solution.cpp)
+
+[940.Distinct-Subsequences-II](Algorithms/940.Distinct-Subsequences-II/solution.cpp)

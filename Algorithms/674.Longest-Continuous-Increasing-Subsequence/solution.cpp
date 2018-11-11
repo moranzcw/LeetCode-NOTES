@@ -5,19 +5,21 @@ public:
             return 0;
         
         int max = 1;
-        int temp = 1;
-        int last = nums[0];
-        for(int i=1;i<nums.size();i++){
-            if(nums[i] > last){
-                temp += 1;
-                if(temp > max)
-                    max = temp;
+        
+        for(int i=0;i<nums.size();i++){
+            // cout << "i=" << i << ':' << endl;
+            int temp = 1;
+            for(int j=i;j+1<nums.size();j++){
+                // cout << "  j=" << j << ':' << nums[j] << "," << nums[j+1] << endl;
+                if(nums[j+1] > nums[j])
+                    temp += 1;
+                else
+                    break;
             }
-            else{
-                temp = 1;
-            }
-            last = nums[i];
+            if(temp > max)
+                max = temp;
         }
         return max;
     }
 };
+
