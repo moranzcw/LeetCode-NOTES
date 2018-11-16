@@ -429,6 +429,8 @@
 
 [273.Integer-to-English-Words](Algorithms/273.Integer-to-English-Words/solution.cpp)
 
+[274.H-Index](Algorithms/274.H-Index/solution.cpp)
+
 [278.First-Bad-Version](Algorithms/278.First-Bad-Version/solution.cpp)
 
 [283.Move-Zeroes](Algorithms/283.Move-Zeroes/solution.cpp)
@@ -452,6 +454,8 @@
 [318.Maximum-Product-of-Word-Lengths](Algorithms/318.Maximum-Product-of-Word-Lengths/solution.cpp)
 
 [319.Bulb-Switcher](Algorithms/319.Bulb-Switcher/solution.cpp)
+
+[324.Wiggle-Sort-II](Algorithms/324.Wiggle-Sort-II/solution.cpp)
 
 [326.Power-of-Three](Algorithms/326.Power-of-Three/solution.cpp)
 
@@ -579,6 +583,8 @@
 
 [680.Valid-Palindrome-II](Algorithms/680.Valid-Palindrome-II/solution.cpp)
 
+[746.Min-Cost-Climbing-Stairs](Algorithms/746.Min-Cost-Climbing-Stairs/solution.cpp)
+
 [762.Prime-Number-of-Set-Bits-in-Binary-Representation](Algorithms/762.Prime-Number-of-Set-Bits-in-Binary-Representation/solution.cpp)
 
 [824.Goat-Latin](Algorithms/824.Goat-Latin/solution.cpp)
@@ -588,6 +594,10 @@
 [826.Most-Profit-Assigning-Work](Algorithms/826.Most-Profit-Assigning-Work/solution.cpp)
 
 [897.Increasing-Order-Search-Tree](Algorithms/897.Increasing-Order-Search-Tree/solution.cpp)
+
+[914.X-of-a-Kind-in-a-Deck-of-Cards](Algorithms/914.X-of-a-Kind-in-a-Deck-of-Cards/solution.cpp)
+
+[915.Partition-Array-into-Disjoint-Intervals](Algorithms/915.Partition-Array-into-Disjoint-Intervals/solution.cpp)
 
 [925.Long-Pressed-Name](Algorithms/925.Long-Pressed-Name/solution.cpp)
 
