@@ -618,3 +618,11 @@
 [939.Minimum-Area-Rectangle](Algorithms/939.Minimum-Area-Rectangle/solution.cpp)
 
 [940.Distinct-Subsequences-II](Algorithms/940.Distinct-Subsequences-II/solution.cpp)
+
+[941.Valid-Mountain-Array](Algorithms/941.Valid-Mountain-Array/solution.cpp)
+
+[942.DI-String-Match](Algorithms/942.DI-String-Match/solution.cpp)
+
+[943.Find-the-Shortest-Superstring](Algorithms/943.Find-the-Shortest-Superstring/solution.cpp)
+
+[944.Delete-Columns-to-Make-Sorted](Algorithms/944.Delete-Columns-to-Make-Sorted/solution.cpp)
