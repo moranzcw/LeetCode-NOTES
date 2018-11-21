@@ -577,6 +577,8 @@
 
 [506.Relative-Ranks](Algorithms/506.Relative-Ranks/solution.cpp)
 
+[523.Continuous-Subarray-Sum](Algorithms/523.Continuous-Subarray-Sum/solution.cpp)
+
 [645.Set-Mismatch](Algorithms/645.Set-Mismatch/solution.cpp)
 
 [674.Longest-Continuous-Increasing-Subsequence](Algorithms/674.Longest-Continuous-Increasing-Subsequence/solution.cpp)
