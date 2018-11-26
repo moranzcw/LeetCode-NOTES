@@ -628,3 +628,11 @@
 [943.Find-the-Shortest-Superstring](Algorithms/943.Find-the-Shortest-Superstring/solution.cpp)
 
 [944.Delete-Columns-to-Make-Sorted](Algorithms/944.Delete-Columns-to-Make-Sorted/solution.cpp)
+
+[945.Minimum-Increment-to-Make-Array-Unique](Algorithms/945.Minimum-Increment-to-Make-Array-Unique/solution.cpp)
+
+[946.Validate-Stack-Sequences](Algorithms/946.Validate-Stack-Sequences/solution.cpp)
+
+[947.Most-Stones-Removed-with-Same-Row-or-Column](Algorithms/947.Most-Stones-Removed-with-Same-Row-or-Column/solution.cpp)
+
+[948.Bag-of-Tokens](Algorithms/948.Bag-of-Tokens/solution.cpp)
