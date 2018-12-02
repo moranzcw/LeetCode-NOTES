@@ -597,9 +597,17 @@
 
 [897.Increasing-Order-Search-Tree](Algorithms/897.Increasing-Order-Search-Tree/solution.cpp)
 
+[906.Super-Palindromes](Algorithms/906.Super-Palindromes/solution.cpp)
+
 [914.X-of-a-Kind-in-a-Deck-of-Cards](Algorithms/914.X-of-a-Kind-in-a-Deck-of-Cards/solution.cpp)
 
 [915.Partition-Array-into-Disjoint-Intervals](Algorithms/915.Partition-Array-into-Disjoint-Intervals/solution.cpp)
+
+[918.Maximum-Sum-Circular-Subarray](Algorithms/918.Maximum-Sum-Circular-Subarray/solution.cpp)
+
+[917.Reverse-Only-Letters](Algorithms/917.Reverse-Only-Letters/solution.cpp)
+
+[919.Complete-Binary-Tree-Inserter](Algorithms/919.Complete-Binary-Tree-Inserter/solution.cpp)
 
 [925.Long-Pressed-Name](Algorithms/925.Long-Pressed-Name/solution.cpp)
 
@@ -636,3 +644,11 @@
 [947.Most-Stones-Removed-with-Same-Row-or-Column](Algorithms/947.Most-Stones-Removed-with-Same-Row-or-Column/solution.cpp)
 
 [948.Bag-of-Tokens](Algorithms/948.Bag-of-Tokens/solution.cpp)
+
+[949.Largest-Time-for-Given-Digits](Algorithms/949.Largest-Time-for-Given-Digits/solution.cpp)
+
+[950.Reveal-Cards-In-Increasing-Order](Algorithms/950.Reveal-Cards-In-Increasing-Order/solution.cpp)
+
+[951.Flip-Equivalent-Binary-Trees](Algorithms/951.Flip-Equivalent-Binary-Trees/solution.cpp)
+
+[952.Largest-Component-Size-by-Common-Factor](Algorithms/952.Largest-Component-Size-by-Common-Factor/solution.cpp)
