@@ -652,3 +652,9 @@
 [951.Flip-Equivalent-Binary-Trees](Algorithms/951.Flip-Equivalent-Binary-Trees/solution.cpp)
 
 [952.Largest-Component-Size-by-Common-Factor](Algorithms/952.Largest-Component-Size-by-Common-Factor/solution.cpp)
+
+[953.Verifying-an-Alien-Dictionary](Algorithms/953.Verifying-an-Alien-Dictionary/solution.cpp)
+
+[954.Array-of-Doubled-Pairs](Algorithms/954.Array-of-Doubled-Pairs/solution.cpp)
+
+[955.Delete-Columns-to-Make-Sorted-II](Algorithms/955.Delete-Columns-to-Make-Sorted-II/solution.cpp)
