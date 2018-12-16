@@ -658,3 +658,9 @@
 [954.Array-of-Doubled-Pairs](Algorithms/954.Array-of-Doubled-Pairs/solution.cpp)
 
 [955.Delete-Columns-to-Make-Sorted-II](Algorithms/955.Delete-Columns-to-Make-Sorted-II/solution.cpp)
+
+[957.Prison-Cells-After-N-Days](Algorithms/957.Prison-Cells-After-N-Days/solution.cpp)
+
+[958.Check-Completeness-of-a-Binary-Tree](Algorithms/958.Check-Completeness-of-a-Binary-Tree/solution.cpp)
+
+[959.Regions-Cut-By-Slashes](Algorithms/959.Regions-Cut-By-Slashes/solution.cpp)
