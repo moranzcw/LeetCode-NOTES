@@ -664,3 +664,9 @@
 [958.Check-Completeness-of-a-Binary-Tree](Algorithms/958.Check-Completeness-of-a-Binary-Tree/solution.cpp)
 
 [959.Regions-Cut-By-Slashes](Algorithms/959.Regions-Cut-By-Slashes/solution.cpp)
+
+[973.K-Closest-Points-to-Origin](Algorithms/973.K-Closest-Points-to-Origin/solution.cpp)
+
+[974.Subarray-Sums-Divisible-by-K](Algorithms/974.Subarray-Sums-Divisible-by-K/solution.cpp)
+
+[976.Largest-Perimeter-Triangle](Algorithms/976.Largest-Perimeter-Triangle/solution.cpp)
