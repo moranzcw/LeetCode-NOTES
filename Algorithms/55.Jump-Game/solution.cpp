@@ -1,17 +1,22 @@
-class Solution 
-{
+class Solution2 {
 public:
-    bool canJump(int A[], int n) 
-    {
-        int max = 0;
-        for(int i=0;i<n;i++)
+    bool canJump(vector<int>& nums) {
+        vector<bool>table(nums.size(), false);
+        table[0] = true;
+        
+        for(auto i = 1; i < nums.size(); ++i)
         {
-            if(A[i]>max)
-                max = A[i];
-            if(max == 0 && i != n-1)
-                return false;
-            max--;
+            for(auto j = 0; j < i; ++j)
+            {
+                if (table[j] && nums[j] >= i - j)
+                {
+                    table[i] = true;
+                    break;
+                }
+            }
         }
-        return true;
+        
+        return table[nums.size() - 1];
+        
     }
 };
